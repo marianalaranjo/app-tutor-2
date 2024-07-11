@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "questão": "Como a inteligência artificial pode contribuir para o aumento da desigualdade social?",
+      "A": "Promovendo a igualdade de oportunidades.",
+      "B": "Criando algoritmos discriminatórios.",
+      "C": "Reduzindo a exclusão social.",
+      "D": "Não tem impacto na desigualdade.",
+      "resposta": "Criando algoritmos discriminatórios."
+    },
+    {
+      "id": 2,
+      "questão": "Qual é uma das principais preocupações em relação ao impacto da Inteligência Artificial na sociedade?",
+      "A": "Desemprego em massa devido à automação de tarefas.",
+      "B": "Aumento da qualidade de vida de todas as pessoas.",
+      "C": "Redução da desigualdade social.",
+      "D": "Diminuição da necessidade de educação e formação profissional.",
+      "resposta": "Desemprego em massa devido à automação de tarefas."
+    },
+    {
+      "id": 3,
+      "questão": "Como a IA pode influenciar a privacidade das pessoas?",
+      "A": "Melhorando a segurança dos dados pessoais.",
+      "B": "Aumentando a transparência das empresas.",
+      "C": "Expondo informações privadas de forma inadequada.",
+      "D": "Garantindo o anonimato dos utilizadores.",
+      "resposta": "Expondo informações privadas de forma inadequada."
+    },
+    {
+      "id": 4,
+      "questão": "Qual é um dos desafios éticos relacionados com a IA?",
+      "A": "A falta de capacidade da IA em tomar decisões.",
+      "B": "O uso de IA para criar arte de forma autónoma.",
+      "C": "A discriminação algorítmica baseada em preconceitos humanos.",
+      "D": "A IA não ter impacto na vida das pessoas.",
+      "resposta": "A discriminação algorítmica baseada em preconceitos humanos."
+    },
+    {
+      "id": 5,
+      "questão": "Qual é uma das formas de mitigar o enviesamento de género na IA?",
+      "A": "Ignorar a questão do género na programação de algoritmos.",
+      "B": "Garantir a diversidade na equipa de desenvolvimento de IA.",
+      "C": "Utilizar exclusivamente dados de um único grupo demográfico.",
+      "D": "Não considerar o impacto da IA na sociedade.",
+      "resposta": "Garantir a diversidade na equipa de desenvolvimento de IA."
+    },
+    {
+      "id": 6,
+      "questão": "O que é importante para garantir que a inteligência artificial seja justa?",
+      "A": "Utilizar dados desatualizados.",
+      "B": "Ignorar possíveis preconceitos nos algoritmos.",
+      "C": "Garantir uma representação diversificada nos dados.",
+      "D": "Limitar o acesso à tecnologia.",
+      "resposta": "Garantir uma representação diversificada nos dados."
+    },
+    {
+      "id": 7,
+      "questão": "Qual é uma das possíveis soluções para lidar com o problema da discriminação algorítmica?",
+      "A": "Criar algoritmos ainda mais complexos.",
+      "B": "Utilizar algoritmos baseados em IA apenas em áreas não sensíveis.",
+      "C": "Ignorar a questão da discriminação algorítmica.",
+      "D": "Não é possível resolver esse problema.",
+      "resposta": "Utilizar algoritmos baseados em IA apenas em áreas não sensíveis."
+    },
+    {
+      "id": 8,
+      "questão": "Qual é a importância da transparência na inteligência artificial?",
+      "A": "Não é importante, desde que os resultados sejam positivos.",
+      "B": "A transparência pode ajudar a identificar e corrigir erros nos algoritmos.",
+      "C": "A transparência não tem impacto na IA.",
+      "D": "A transparência pode comprometer a eficácia da IA.",
+      "resposta": "A transparência pode ajudar a identificar e corrigir erros nos algoritmos."
+    },
+    {
+      "id": 9,
+      "questão": "Qual é um dos benefícios da inteligência artificial para a sociedade?",
+      "A": "Aumento da desigualdade social.",
+      "B": "Maior controlo sobre a privacidade dos cidadãos.",
+      "C": "Melhoria na eficiência de processos e serviços.",
+      "D": "Diminuição da necessidade de profissionais qualificados.",
+      "resposta": "Melhoria na eficiência de processos e serviços."
+    },
+    {
+      "id": 10,
+      "questão": "De acordo com o curso Elements of AI, qual a principal preocupação em relação à confiança cega na IA?",
+      "A": "Falta de transparência nos algoritmos.",
+      "B": "Falta de investimento em tecnologia.",
+      "C": "Excesso de regulamentação.",
+      "D": "Facilidade de utilização.",
+      "resposta": "Falta de transparência nos algoritmos."
+    }
+  ]
+  

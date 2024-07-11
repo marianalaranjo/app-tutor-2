@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+openai
+streamlit
+firebase-admin
+google-cloud-firestore
