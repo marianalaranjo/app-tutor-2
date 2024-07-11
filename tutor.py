@@ -111,7 +111,7 @@ with col1:
             st.write(f":green[**Parabéns! A sua pontuação é {score}%.**]")
         else:
             st.write(f":red[**Ups! A sua pontuação é {score}%.**]")
-        st.warning("Por favor, preenche o seguinte forms para deixar feedback sobre a experiência de utilização:\nhttps://forms.gle/EPENxtAkBfdAkJdu9")
+        st.warning("Por favor, preenche o seguinte forms para deixar feedback sobre a experiência de utilização:\nhttps://forms.gle/VaVKe3Mpg1BCQswq7")
         st.write("________________________")
         list_answers()
 
