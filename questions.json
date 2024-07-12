@@ -19,21 +19,21 @@
     },
     {
       "id": 3,
-      "questão": "Qual é uma das formas de mitigar o enviesamento de género na IA?",
-      "A": "Ignorar a questão do género na programação de algoritmos.",
-      "B": "Garantir a diversidade na equipa de desenvolvimento de IA.",
-      "C": "Utilizar exclusivamente dados de um único grupo demográfico.",
-      "D": "Não considerar o impacto da IA na sociedade.",
-      "resposta": "Garantir a diversidade na equipa de desenvolvimento de IA."
+      "questão": "Qual é a importância da diversidade e inclusão na criação de sistemas de inteligência artificial?",
+      "A": "Não é relevante.",
+      "B": "Garantir que os sistemas sejam justos e representativos de toda a sociedade.",
+      "C": "Promover a exclusão e o preconceito.",
+      "D": "Ignorar a diversidade.",
+      "resposta": "Garantir que os sistemas sejam justos e representativos de toda a sociedade."
     },
     {
       "id": 4,
-      "questão": "Como a IA pode influenciar a privacidade das pessoas?",
-      "A": "Melhorando a segurança dos dados pessoais.",
-      "B": "Aumentando a transparência das empresas.",
-      "C": "Expondo informações privadas de forma inadequada.",
-      "D": "Garantindo o anonimato dos utilizadores.",
-      "resposta": "Expondo informações privadas de forma inadequada."
+      "questão": "Como a inteligência artificial pode afetar a privacidade dos indivíduos?",
+      "A": "Protegendo os dados pessoais.",
+      "B": "Violando a privacidade através da coleta e uso indevido de dados.",
+      "C": "Não tem impacto na privacidade.",
+      "D": "Promovendo a transparência.",
+      "resposta": "Violando a privacidade através da coleta e uso indevido de dados."
     },
     {
       "id": 5,
